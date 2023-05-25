@@ -30,6 +30,7 @@ Algoritmo Ejercico7
 	Si HH>12 Entonces
 		Escribir (HH-12), ":", MM, " pm"
 	FinSi
+
+	escribir "Esto se esta probando..."
 	
-	escribir "Finalizado"
 FinAlgoritmo
